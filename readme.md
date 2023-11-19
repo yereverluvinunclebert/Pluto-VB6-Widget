@@ -1,7 +1,7 @@
 # Pluto-Widget-VB6
 The Steampunk Pluto Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Pluto Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
 
-![Pluto](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/e248af44-effc-4145-ba04-1a9b7ad4301a)
+![pluto](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/9508c4b2-09e8-4370-84a7-59a4cf93acf1)
 
 The others are the Uranus, Jupiter, Saturn and of course, 'God of War', the planet Mars. 
 Double-clicking on the planet will cause a personalised Windows application 
@@ -17,6 +17,8 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
 Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in the guise of 100% compatible TwinBasic, coupled with support for transparent PNGs via Olaf Schmidt's RC/Cairo wrapper, VB6 code has an amazing future.
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/Jupiter-Widget/assets/2788342/38dd8b6c-32ed-4a51-9704-61b2246a9fec)
+
+![planets](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/73216483-d7f5-4480-ace5-ca1e66678903)
  
  The Pluto widget is an attractive dieselpunk VB6 widget for your desktop. Functional and gorgeous at the same time. The graphics are my own. It is all my code with some help from the chaps at VBForums (credits given). This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
@@ -37,7 +39,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
 
-![help](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/b73c459e-7781-43e1-9cbb-803560c90277)
+![help](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/d14837b7-fbcd-4adb-8502-391d38a57569)
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
@@ -46,7 +48,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-![theWholeShebang](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/325a7f7a-c97e-49e6-9c8d-15b1da8cc8f7)
+![theWholeShebang](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/03982194-76dc-481f-93dd-4dad47776848)
 
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
@@ -92,7 +94,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
 
-![about](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/06433349-4cef-4ac3-a75b-205b8b4ac973)
+![about](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/b5446ed9-b72d-470b-9d39-3fc487ac3f65)
 
  CREDITS:
  
@@ -176,8 +178,6 @@ If you are just a casual user of desktop programs then simply download the SETUP
  REGTLIB %SystemRoot%\System32\OLEGUIDS.TLB
  
  In the VB6 IDE - project - references - browse - select the OLEGuids.tlb
- 
-
 
  * SETUP.EXE - The program is currently distributed using setup2go, a very useful 
  and comprehensive installer program that builds a .exe installer. Youll have to 
@@ -211,7 +211,8 @@ If you are just a casual user of desktop programs then simply download the SETUP
  With regard to the commercial use of incorporated images, permission and a 
  licence would need to be obtained from the original owner and creator, ie. me.
  
-![desktop](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/68003c0c-db0d-4d32-b5ac-d4978f4e2935)
+![desktop](https://github.com/yereverluvinunclebert/Pluto-VB6-Widget/assets/2788342/649b9397-66d7-4771-83a2-083f0dea8f23)
+
 
 
 
